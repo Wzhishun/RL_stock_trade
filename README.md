@@ -29,7 +29,7 @@ scikit-learn
 
 gym
 
-![399e20068e7bfb8e0294f37e5a01199](https://user-images.githubusercontent.com/49648647/140602071-5f203248-2722-4887-977f-d37eca5b1f77.png)
+![f70369def081bdeefe504e79b5cc817](https://user-images.githubusercontent.com/49648647/140602614-ffa1457a-cbec-4fe8-abce-47075605f345.png)
 
 ![image](https://user-images.githubusercontent.com/49648647/140601769-ee73b35d-a663-40ba-b87b-e493f20e74c0.png)
 
