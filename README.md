@@ -29,11 +29,8 @@ scikit-learn
 
 gym
 
-Indicator	B&H	DNN-PPO	B&H	DNN-PPO	B&H	DNN-PPO	B&H	DNN-PPO
-Profit rate	-28.83%	6.55%	-30.94%	-14.71%	Data is less		-16.24%	15.38%
-Beta	100.00%	17.27%	100.00%	-30.21%			100.00%	32.12%
-Sharp ratio	-40.20%	53.14%	-58.20%	71.45%			-9.03%	65.87%
-Max dropdown	16.28%	13.96%	16.29%	14.53%			22.66%	21.85%
+![399e20068e7bfb8e0294f37e5a01199](https://user-images.githubusercontent.com/49648647/140602071-5f203248-2722-4887-977f-d37eca5b1f77.png)
+
 
 
 ![Uploading image.png…]()
