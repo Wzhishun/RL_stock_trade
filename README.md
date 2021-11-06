@@ -17,3 +17,4 @@ stable-baselines
 pickle
 scikit-learn
 gym
+![image](https://user-images.githubusercontent.com/49648647/140601769-ee73b35d-a663-40ba-b87b-e493f20e74c0.png)
