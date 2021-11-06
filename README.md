@@ -3,7 +3,7 @@ Test1106
 You can see the lab in wandb file. It is public.
 https://wandb.ai/prcwzs/Test1106/workspace?workspace=user-prcwzs
 
-Due to my poor computer power and the noise of the computer fan (I am in CUHK library and it is really annoy my neighbors ), I just train several stocks not all securities you provided.
+Due to my poor computer power and the noise of the computer fan (I am in CUHK library and it is really annoy my neighbors), I just train several stocks not all securities you provided.
 
 
 I use PPO(Proximal Policy Optimization) + MLP（Multilayer Perceptron） to create a RL(Reinforcement Learning) agent to trade stock you provided.
