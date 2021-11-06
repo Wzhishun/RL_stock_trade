@@ -33,7 +33,13 @@ gym
 
 
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/49648647/140602096-d8e79621-7a8f-41a2-8a43-47bfb3e7ad58.png)
 
 
 ![image](https://user-images.githubusercontent.com/49648647/140601769-ee73b35d-a663-40ba-b87b-e493f20e74c0.png)
+
+![image](https://user-images.githubusercontent.com/49648647/140602112-12a0c9cb-b346-49cf-8bab-21540fafd3e3.png)
+
+
+![Uploading image.png…]()
+
