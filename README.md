@@ -9,6 +9,8 @@ I do not choose to use traditional indiactor to trade stock cause I do think it 
 
 However, using machine learning methods will face black box problems, which may cause systemic risks.
 
+StockEnv.py is a Chinese stock trading env where transaction fee is 0.125%. StockPlotEnv.py is major in plot the trading image. quant.py is in charge of data process. PPO_run1.py is tha main fuction of running RL process.
+
 Due to my poor power and the noise of the computer fan (I am in CUHK library), I just train several stocks not all securities you provided.
 
 packages:
