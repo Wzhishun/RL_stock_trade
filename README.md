@@ -28,6 +28,8 @@ scikit-learn
 gym
 ![8f2cb5b0e82341a2294bac58d90a84f](https://user-images.githubusercontent.com/49648647/140630360-c8b967a2-4930-4c89-9035-e5496566c8c8.png)
 
+As shown in the following chart, the red line is the revenue curve of our agent, and the blue line is the benchmark revenue curve. The orange bars are the positions of our reinforcement learning agent. The pink bars are the trading actions of the reinforcement learning agent. The line graph on the right is the reward function of the reinforcement learning agent
+
 ![image](https://user-images.githubusercontent.com/49648647/140601769-ee73b35d-a663-40ba-b87b-e493f20e74c0.png)
 
 ![image](https://user-images.githubusercontent.com/49648647/140602096-d8e79621-7a8f-41a2-8a43-47bfb3e7ad58.png)
