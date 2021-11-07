@@ -24,8 +24,8 @@ scikit-learn
 
 gym
 
-In the process of data processing, the last price and volume based on the current 10 trading days are used as the agent's observation data, and trading decisions are made (-1 to 1, representing the ratio of selling or buying and trading). The training set is the data from the initial day to the last 480 trading day, and the test set is the last 480 trading days.
-The agent uses the excess return rate as its reward function, and uses the return rate, beta, Sharpe ratio and maximum drawdown for the indicators analyzed by the reinforcement learning method.
+In the process of data processing, the last price and volume based on the current 10 trading days are used as the agent's observation data, and trading decisions are made (-1 to 1, representing the ratio of selling or buying and trading). The training set is the data from the initial day to the last 480 trading day, and the test set is the last 480 trading days.The agent uses the extra return rate as its reward function, and uses the return rate, beta, Sharpe ratio and maximum drawdown for the indicators analyzed by the reinforcement learning method.
+
 ![8f2cb5b0e82341a2294bac58d90a84f](https://user-images.githubusercontent.com/49648647/140630360-c8b967a2-4930-4c89-9035-e5496566c8c8.png)
 
 As shown in the following chart, the red line is the revenue curve of our agent, and the blue line is the benchmark revenue curve. The orange bars are the positions of our reinforcement learning agent. The pink bars are the trading actions of the reinforcement learning agent. The line graph on the right is the reward function of the reinforcement learning agent.
