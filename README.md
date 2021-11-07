@@ -7,15 +7,10 @@ Due to my poor computer power and the noise of the computer fan (I am in CUHK li
 
 
 I use PPO (Proximal Policy Optimization) + MLP (Multilayer Perceptron) to create a RL(Reinforcement Learning) agent to trade stock you provided. The RL trading decision marking process can be described as follows:
-We formulate the stock trading process into a Markov Decision Process (MDP) to match with DRL algorithms. A five-tuple array include <$s, p, a, r$, $\gamma$>, which are defined as state space $s$, transition function $p$, action space $a$, reward function $r$ and discount factor $\gamma$. The state transition probability is objectively given and is not affected by the actions of the agent. Considering the dynamic and uncertain characteristics of the stock market, We set up the stock trading model as an MDP as follows:
-![image](https://user-images.githubusercontent.com/49648647/140629910-85b7301d-151c-4622-bfa8-7e5808b78231.png)
 
 
-I do not choose to use traditional indiactor to trade stock cause I do think it will lead to the result of strategy homogeneity. 
 
-However, using machine learning methods will face black box problems, which may cause systemic risks.
-
-StockEnv.py is a Chinese stock trading env where transaction fee is 0.125%. StockPlotEnv.py is major in plot the trading image. quant.py is in charge of data process. PPO_run1.py is tha main fuction of running RL process. Test.zip includes other train models and data. run_plot.py is a plot process.
+I do not choose to use traditional indiactor to trade stock cause I do think it will lead to the result of strategy homogeneity. However, using machine learning methods will face black box problems, which may cause systemic risks.StockEnv.py is a Chinese stock trading env where transaction fee is 0.125%. StockPlotEnv.py is major in plot the trading image. quant.py is in charge of data process. PPO_run1.py is tha main fuction of running RL process. Test.zip includes other train models and data. run_plot.py is a plot process.
 
 
 packages:
