@@ -31,8 +31,7 @@ pickle
 scikit-learn
 
 gym
-
-![efaae3171711319821b30ed6987b224](https://user-images.githubusercontent.com/49648647/140602631-32821bc3-01b6-4440-8bf1-bc8cc3660228.png)
+![35966dc52ad8e677f122e8fe82b4212](https://user-images.githubusercontent.com/49648647/140630225-19b21d8d-3664-44c2-b416-599d1f300900.png)
 
 ![image](https://user-images.githubusercontent.com/49648647/140601769-ee73b35d-a663-40ba-b87b-e493f20e74c0.png)
 
