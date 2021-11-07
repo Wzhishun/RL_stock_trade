@@ -6,8 +6,8 @@ https://wandb.ai/prcwzs/Test1106/workspace?workspace=user-prcwzs
 Due to my poor computer power and the noise of the computer fan (I am in CUHK library and it is really annoy my neighbors), I just train several stocks not all securities you provided.
 
 
-I use PPO(Proximal Policy Optimization) + MLP（Multilayer Perceptron） to create a RL(Reinforcement Learning) agent to trade stock you provided. The RL trading decision marking process can be described as follows:
-
+I use PPO (Proximal Policy Optimization) + MLP (Multilayer Perceptron) to create a RL(Reinforcement Learning) agent to trade stock you provided. The RL trading decision marking process can be described as follows:
+We formulate the stock trading process into a Markov Decision Process (MDP) to match with DRL algorithms. A five-tuple array include <$s, p, a, r$, $\gamma$>, which are defined as state space $s$, transition function $p$, action space $a$, reward function $r$ and discount factor $\gamma$. The state transition probability is objectively given and is not affected by the actions of the agent. Considering the dynamic and uncertain characteristics of the stock market, We set up the stock trading model as an MDP as follows:
 ![image](https://user-images.githubusercontent.com/49648647/140629910-85b7301d-151c-4622-bfa8-7e5808b78231.png)
 
 
