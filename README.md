@@ -6,7 +6,10 @@ https://wandb.ai/prcwzs/Test1106/workspace?workspace=user-prcwzs
 Due to my poor computer power and the noise of the computer fan (I am in CUHK library and it is really annoy my neighbors), I just train several stocks not all securities you provided.
 
 
-I use PPO(Proximal Policy Optimization) + MLP（Multilayer Perceptron） to create a RL(Reinforcement Learning) agent to trade stock you provided.
+I use PPO(Proximal Policy Optimization) + MLP（Multilayer Perceptron） to create a RL(Reinforcement Learning) agent to trade stock you provided. The RL trading decision marking process can be described as follows:
+
+![image](https://user-images.githubusercontent.com/49648647/140629910-85b7301d-151c-4622-bfa8-7e5808b78231.png)
+
 
 I do not choose to use traditional indiactor to trade stock cause I do think it will lead to the result of strategy homogeneity. 
 
