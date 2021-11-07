@@ -38,3 +38,5 @@ As shown in the following chart, the red line is the revenue curve of our agent,
 
 Although the performance of the agent varies greatly among multiple stocks, and it has not achieved particularly good returns, it can be improved based on the existing model. Such as using more suitable algorithms (LSTM, ATTENTION), richer data (open, high, low, close, KDJ, MACD, RSI...) and other sentiment indicators, or as an auxiliary decision-making for traders.
 
+Copyright © [2021] [Wzhishun]. All rights reserved.
+
